@@ -7,7 +7,6 @@ title: Hexo
 subtitle:
 description:
 keywords:
-author: lzx
 language:
   - zh-CN
   - en
@@ -75,7 +74,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: maupassant
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
